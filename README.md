@@ -1,3 +1,4 @@
 # otodreas.github.io
 
-My name is Oliver Todreas and I am a master's student studying bioinformatics at Lund University.
+This is my github website I created in the course BINP17 as a part of my master's program in
+bioinformatics at Lund University.
