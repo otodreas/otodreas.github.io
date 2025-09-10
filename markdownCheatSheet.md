@@ -9,3 +9,5 @@ this file contains some characters and what they do in a markdown file. normal t
 *wrap your text with `*` on either side for italics*
 
 wrap text with `` to create a `code block`
+
+"wrapped with citations" 'wrapped with single cications'
