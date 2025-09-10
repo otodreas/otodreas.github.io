@@ -1,8 +1,8 @@
 this file contains some characters and what they do in a markdown file. normal text looks like this.
 
 
-# to create headers, type `# ` followed by your header
-`**` `**`
-**text looks like this**
+# to create headings, type `# ` followed by your heading
 
-*text looks like this
+**wrap your text with `**` on either side for subheadings**
+
+* text looks like this
