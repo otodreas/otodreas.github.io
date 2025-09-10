@@ -1,3 +1,3 @@
 # otodreas.github.io
 
-## this website will serve as my homepage starting at the beginning of my studies at Lund University.
+* My name is Oliver Todreas and I am a master's student studying bioinformatics at Lund University.
