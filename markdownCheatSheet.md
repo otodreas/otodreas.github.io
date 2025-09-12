@@ -10,7 +10,7 @@ this file contains some characters and what they do in a markdown file. normal t
 
 wrap text with `` for `monospace`
 
-type three ` symbols, type in new lines, then type three ` symbols again to create a code block
+type three "`" symbols, type in new lines, then type three ` symbols again to create a code block
 ```
 code block line 1
 code block line 2
