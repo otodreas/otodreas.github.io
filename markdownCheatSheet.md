@@ -8,9 +8,10 @@ this file contains some characters and what they do in a markdown file. normal t
 
 *wrap your text with `*` on either side for italics*
 
-wrap text with `` to create a `code block`
+wrap text with `` for `monospace`
 
+type three ` symbols, type in new lines, then type three ` symbols again to create a code block
 ```
-line 1
-line 2
+code block line 1
+code block line 2
 ```
